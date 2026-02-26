@@ -1,26 +1,26 @@
-Salary Prediction using Multiple Linear Regression
-
+<h2>Salary Prediction using Multiple Linear Regression
+</h2>
 This project predicts employee salary based on age and years of experience using Multiple Linear Regression.
 
-Features
+<h3>Features</h3>
 
-Age
+1) Age
 
-Experience
+2) Experience
 
-Income (Target)
+3) Income (Target)
 
-Tools Used
+<h3>Tools Used</h3>
 
-Python
+1) Python
 
-Pandas
+2) Pandas
 
-Scikit-learn
+3) Scikit-learn
 
-Matplotlib
+4) Matplotlib
 
-Model Performance
+<h3>Model Performance</h3>
 
 MAE: 797.91
 
